@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f650482-9ead-4386-ba6d-341a848a9b04" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../QUAN_LY_BAN_HANG.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../QUAN_LY_BAN_HANG.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/classes/com/codegym/cms/configuration/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/classes/com/codegym/cms/configuration/AppInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/classes/com/codegym/cms/controller/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/classes/com/codegym/cms/controller/ProvinceController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/classes/com/codegym/cms/formatter/ProvinceFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/classes/com/codegym/cms/model/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/classes/com/codegym/cms/model/Province.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/classes/com/codegym/cms/repository/ICustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/classes/com/codegym/cms/repository/IProvinceRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/classes/com/codegym/cms/service/IGeneralService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/classes/com/codegym/cms/service/customer/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/classes/com/codegym/cms/service/customer/ICustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/classes/com/codegym/cms/service/province/IProvinceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/classes/com/codegym/cms/service/province/ProvinceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/byte-buddy-1.12.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/commons-fileupload-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/commons-io-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/groovy-3.0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/groovy-extensions-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/hibernate-commons-annotations-5.1.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/hibernate-core-5.6.8.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/hibernate-entitymanager-5.6.8.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/jandex-2.4.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/javassist-3.20.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/jboss-logging-3.4.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/mysql-connector-java-8.0.29.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/ognl-3.1.26.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/protobuf-java-3.19.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/slf4j-api-1.7.32.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/spring-aop-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/spring-beans-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/spring-context-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/spring-core-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/spring-data-commons-2.7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/spring-data-jpa-2.7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/spring-expression-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/spring-jcl-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/spring-jdbc-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/spring-orm-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/spring-tx-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/spring-web-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/spring-webmvc-5.3.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/stax-ex-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/thymeleaf-3.0.15.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/thymeleaf-expression-processor-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/thymeleaf-layout-dialect-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/thymeleaf-spring5-3.0.15.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/txw2-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/views/customer/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/views/customer/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/views/customer/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/views/customer/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/views/province/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/views/province/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/views/province/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/views/province/error.404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/views/province/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/views/province/view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case_study_reference/module-03-case-study" beforeDir="false" afterPath="$PROJECT_DIR$/../../case_study_reference/module-03-case-study" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/jwbd-user-manager" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/jwbd-user-manager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jwbd-user-manager" beforeDir="false" afterPath="$PROJECT_DIR$/../../jwbd-user-manager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../leeson_8/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../leeson_8/index-3.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="book_managment" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="2OgbmngxMUwvkoQTWaOACKqpQBR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/codegym/module-03-Java-Web-Back-end-Development-2.1/case_study_ module_3_2/book_managment&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\codegym\module-03-Java-Web-Back-end-Development-2.1\case_study_ module_3_2\book_managment\src\main\webapp\WEB-INF\view\error" />
+      <recent name="C:\codegym\module-03-Java-Web-Back-end-Development-2.1\case_study_ module_3_2\book_managment\src\main\webapp\WEB-INF\view\home" />
+      <recent name="C:\codegym\module-03-Java-Web-Back-end-Development-2.1\case_study_ module_3_2\book_managment\src\main\webapp\WEB-INF\view" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.731" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.731" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="Gradle : com.example : book_managment-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="30e3d04a-0674-440d-8781-a868a645e775" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59073" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.example : book_managment-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f650482-9ead-4386-ba6d-341a848a9b04" name="Changes" comment="" />
+      <created>1681985335414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681985335414</updated>
+      <workItem from="1681985336421" duration="997000" />
+      <workItem from="1682472065738" duration="27440000" />
+      <workItem from="1682522526515" duration="40000" />
+      <workItem from="1683166843620" duration="11905000" />
+      <workItem from="1683206474059" duration="219000" />
+      <workItem from="1683856939958" duration="1090000" />
+      <workItem from="1684940495144" duration="247000" />
+      <workItem from="1684941926875" duration="91000" />
+      <workItem from="1684942182162" duration="941000" />
+      <workItem from="1684980478419" duration="817000" />
+      <workItem from="1684988441639" duration="1084000" />
+      <workItem from="1686036494809" duration="2529000" />
+      <workItem from="1686102086523" duration="14000" />
+      <workItem from="1686386691808" duration="1322000" />
+      <workItem from="1688613510875" duration="776000" />
+      <workItem from="1688627263478" duration="186000" />
+      <workItem from="1688694503224" duration="3581000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
