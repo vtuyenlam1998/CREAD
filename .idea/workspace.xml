@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f650482-9ead-4386-ba6d-341a848a9b04" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leeson_8/.idea/leeson_8.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../QUAN_LY_BAN_HANG.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../QUAN_LY_BAN_HANG.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/classes/com/codegym/cms/configuration/AppConfig.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/classes/com/codegym/cms/configuration/AppInit.class" beforeDir="false" />
@@ -75,6 +77,7 @@
       <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/views/province/error.404.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/views/province/list.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73/webapps/ROOT/WEB-INF/views/province/view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../case_study_reference/module-03-case-study" beforeDir="false" afterPath="$PROJECT_DIR$/../../case_study_reference/module-03-case-study" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../clone/jwbd-user-manager" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/jwbd-user-manager" afterDir="false" />
@@ -118,7 +121,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -126,6 +129,9 @@
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OgbmngxMUwvkoQTWaOACKqpQBR" />
   <component name="ProjectViewState">
@@ -146,6 +152,11 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -269,6 +280,10 @@
       <workItem from="1688613510875" duration="776000" />
       <workItem from="1688627263478" duration="186000" />
       <workItem from="1688694503224" duration="3581000" />
+      <workItem from="1691478073270" duration="62000" />
+      <workItem from="1691478238476" duration="602000" />
+      <workItem from="1691479149244" duration="24000" />
+      <workItem from="1691479180220" duration="408000" />
     </task>
     <servers />
   </component>
